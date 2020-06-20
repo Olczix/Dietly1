@@ -1,0 +1,7 @@
+controllers\DietCaloriesController.class
+model\DietOption.class
+model\DietCalories.class
+model\Diet.class
+respositories\dietCaloriesRepository.class
+DietlyApplication.class
+services\DietCaloriesService.class
